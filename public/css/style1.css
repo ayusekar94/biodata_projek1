@@ -1,0 +1,38 @@
+* {
+    margin: auto;
+    padding: auto;
+}
+
+h1{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+table,tr,td{
+    background-color: rgb(247, 173, 224) ;
+    font-family: century gothic;
+    color: rgb(12, 12, 12);
+    border: 1px solid rgb(10, 10, 10);
+    padding: 5px;
+    border-collapse: collapse;
+}
+.h{
+    border: 8px groove rgba(196, 21, 187, 0.966);
+    padding: 20px;
+}
+.posisi{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    left: 0;
+    right: 0;
+    top: 100px;
+    bottom: 0;
+}
+body{
+    background-image: url('img/2.png');
+    background-repeat: no-repeat;
+    background-size: 1400px auto;
+}
